@@ -1,7 +1,7 @@
 /*
  * lzwCompress.js
  *
- * Copyright (c) 2012-2016 minh
+ * Copyright (c) 2019 minh
  * Licensed under the MIT license.
  */
 
